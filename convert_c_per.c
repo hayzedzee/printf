@@ -1,6 +1,6 @@
 /*
  * File: convert_c_per_p.c
- * Author: Musa Dauda and Azeezat Musa
+ * Authors: Musa Dauda and Azeezat Musa
  */
 
 #include "main.h"
