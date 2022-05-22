@@ -1,6 +1,6 @@
 /*
  * File: convert_c_per_p.c
- * Auth: Ukonu Divine Chisom and Oghenekparobo Onosemuode
+ * Authors: Musa Dauda and Azeezat Musa
  */
 
 #include "main.h"
