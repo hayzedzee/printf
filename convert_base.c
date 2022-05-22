@@ -1,6 +1,6 @@
 /*
  * File: convert_base.c
- * Authors: Ukonu Divine Chisom and Oghenekparobo Onosemuode
+ * Authors: Musa Dauda and Azeezat Musa
  */
 
 #include "main.h"
